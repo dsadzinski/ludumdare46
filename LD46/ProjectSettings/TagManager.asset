@@ -3,7 +3,11 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Enemy
+  - Tornado
+  - Arvore
+  - Earth
   layers:
   - Default
   - TransparentFX
@@ -13,9 +17,9 @@ TagManager:
   - UI
   - 
   - 
-  - 
-  - 
-  - 
+  - Jogador
+  - PlayerProjectile
+  - Enemy
   - 
   - 
   - 
@@ -40,4 +44,16 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Oil Bar
+    uniqueID: 1156179905
+    locked: 0
+  - name: Health Bar
+    uniqueID: 1070423207
+    locked: 0
+  - name: Tutorial
+    uniqueID: 3711663343
+    locked: 0
+  - name: Game State Text
+    uniqueID: 2118724221
     locked: 0

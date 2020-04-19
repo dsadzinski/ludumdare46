@@ -1,0 +1,1327 @@
+fileFormatVersion: 2
+guid: 94d39cc4faf1bb64f81db393a81b9c9c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3992224455124450332
+    second: EndScreenTextAnimation_0
+  - first:
+      213: 4368128570382956882
+    second: EndScreenTextAnimation_1
+  - first:
+      213: 1980384097364803297
+    second: EndScreenTextAnimation_2
+  - first:
+      213: 6038605722807830955
+    second: EndScreenTextAnimation_3
+  - first:
+      213: -4898353618496408052
+    second: EndScreenTextAnimation_4
+  - first:
+      213: -6588402614547499464
+    second: EndScreenTextAnimation_5
+  - first:
+      213: 2396709330231842047
+    second: EndScreenTextAnimation_6
+  - first:
+      213: 3347348381211599028
+    second: EndScreenTextAnimation_7
+  - first:
+      213: 3807292817497189432
+    second: EndScreenTextAnimation_8
+  - first:
+      213: -2857292778172107277
+    second: EndScreenTextAnimation_9
+  - first:
+      213: -5747107271935723419
+    second: EndScreenTextAnimation_10
+  - first:
+      213: 1310414410360352653
+    second: EndScreenTextAnimation_11
+  - first:
+      213: 6672047641992483825
+    second: EndScreenTextAnimation_12
+  - first:
+      213: 421783942782821842
+    second: EndScreenTextAnimation_13
+  - first:
+      213: -1016487237145888617
+    second: EndScreenTextAnimation_14
+  - first:
+      213: 1894055894829197883
+    second: EndScreenTextAnimation_15
+  - first:
+      213: -1332535082117066614
+    second: EndScreenTextAnimation_16
+  - first:
+      213: -699932442786079358
+    second: EndScreenTextAnimation_17
+  - first:
+      213: -3648960888598113108
+    second: EndScreenTextAnimation_18
+  - first:
+      213: 1157713876275541417
+    second: EndScreenTextAnimation_19
+  - first:
+      213: 4827591838738808530
+    second: EndScreenTextAnimation_20
+  - first:
+      213: -4053785354235083039
+    second: EndScreenTextAnimation_21
+  - first:
+      213: 3713897265753725184
+    second: EndScreenTextAnimation_22
+  - first:
+      213: -5351403231049290179
+    second: EndScreenTextAnimation_23
+  - first:
+      213: 2549539093977319409
+    second: EndScreenTextAnimation_24
+  - first:
+      213: -2857163082083871525
+    second: EndScreenTextAnimation_25
+  - first:
+      213: 5104538918390418326
+    second: EndScreenTextAnimation_26
+  - first:
+      213: -6352334076826595731
+    second: EndScreenTextAnimation_27
+  - first:
+      213: -3937720162712904024
+    second: EndScreenTextAnimation_28
+  - first:
+      213: 6280981623363266228
+    second: EndScreenTextAnimation_29
+  - first:
+      213: 6228939805218728451
+    second: EndScreenTextAnimation_30
+  - first:
+      213: 8039666861190397142
+    second: EndScreenTextAnimation_31
+  - first:
+      213: 3997856778514643269
+    second: EndScreenTextAnimation_32
+  - first:
+      213: 300462440814076169
+    second: EndScreenTextAnimation_33
+  - first:
+      213: -2770929464896730410
+    second: EndScreenTextAnimation_34
+  - first:
+      213: -4017765301465604422
+    second: EndScreenTextAnimation_35
+  - first:
+      213: 1694154402182417048
+    second: EndScreenTextAnimation_36
+  - first:
+      213: -2686854680913632419
+    second: EndScreenTextAnimation_37
+  - first:
+      213: -8148009699375344843
+    second: EndScreenTextAnimation_38
+  - first:
+      213: -3329786934409885412
+    second: EndScreenTextAnimation_39
+  - first:
+      213: 2693471838467534906
+    second: EndScreenTextAnimation_40
+  - first:
+      213: 6941305556833482165
+    second: EndScreenTextAnimation_41
+  - first:
+      213: 8629678664938168979
+    second: EndScreenTextAnimation_42
+  - first:
+      213: -9084171459645545189
+    second: EndScreenTextAnimation_43
+  - first:
+      213: -3361924280828836983
+    second: EndScreenTextAnimation_44
+  - first:
+      213: 7294744603607539913
+    second: EndScreenTextAnimation_5
+  - first:
+      213: -1875626302604344153
+    second: EndScreenTextAnimation_6
+  - first:
+      213: 1170621300703015246
+    second: EndScreenTextAnimation_7
+  - first:
+      213: 4458934212986214834
+    second: EndScreenTextAnimation_8
+  - first:
+      213: -5331732930945377415
+    second: EndScreenTextAnimation_9
+  - first:
+      213: 3683093343989127279
+    second: EndScreenTextAnimation_10
+  - first:
+      213: -3786238826786716943
+    second: EndScreenTextAnimation_11
+  - first:
+      213: -4320417026864158291
+    second: EndScreenTextAnimation_12
+  - first:
+      213: -2652394503911964341
+    second: EndScreenTextAnimation_13
+  - first:
+      213: -7965617716295488422
+    second: EndScreenTextAnimation_14
+  - first:
+      213: 3831922821237273226
+    second: EndScreenTextAnimation_15
+  - first:
+      213: -3803623915501752618
+    second: EndScreenTextAnimation_16
+  - first:
+      213: -5022017047869428849
+    second: EndScreenTextAnimation_17
+  - first:
+      213: -8926580798073547812
+    second: EndScreenTextAnimation_18
+  - first:
+      213: 6321217493262077398
+    second: EndScreenTextAnimation_19
+  - first:
+      213: -5146394686463798279
+    second: EndScreenTextAnimation_20
+  - first:
+      213: -2125238575747978061
+    second: EndScreenTextAnimation_21
+  - first:
+      213: 8253714660648951326
+    second: EndScreenTextAnimation_22
+  - first:
+      213: 5467939284555776910
+    second: EndScreenTextAnimation_23
+  - first:
+      213: 866555157989976747
+    second: EndScreenTextAnimation_24
+  - first:
+      213: 7195204523277275016
+    second: EndScreenTextAnimation_25
+  - first:
+      213: 5880293335934587350
+    second: EndScreenTextAnimation_26
+  - first:
+      213: -8050739051390008512
+    second: EndScreenTextAnimation_27
+  - first:
+      213: 1370893084859172299
+    second: EndScreenTextAnimation_28
+  - first:
+      213: -1494409307052927735
+    second: EndScreenTextAnimation_29
+  - first:
+      213: 5780882072925862098
+    second: EndScreenTextAnimation_30
+  - first:
+      213: 2788219557908068426
+    second: EndScreenTextAnimation_31
+  - first:
+      213: 4561737583228761559
+    second: EndScreenTextAnimation_32
+  - first:
+      213: 6904566852848705468
+    second: EndScreenTextAnimation_33
+  - first:
+      213: 2088270304522574652
+    second: EndScreenTextAnimation_34
+  - first:
+      213: 4891593732992924842
+    second: EndScreenTextAnimation_35
+  - first:
+      213: 7738536490048348345
+    second: EndScreenTextAnimation_36
+  - first:
+      213: 5866044831117954951
+    second: EndScreenTextAnimation_37
+  - first:
+      213: -1263423032694168186
+    second: EndScreenTextAnimation_38
+  - first:
+      213: -7500077486562734432
+    second: EndScreenTextAnimation_39
+  - first:
+      213: -3434207044177586389
+    second: EndScreenTextAnimation_40
+  - first:
+      213: -4218204437277969122
+    second: EndScreenTextAnimation_41
+  - first:
+      213: 9099635207585247328
+    second: EndScreenTextAnimation_42
+  - first:
+      213: 2253024308689218321
+    second: EndScreenTextAnimation_43
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: EndScreenTextAnimation_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1088
+        width: 244
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1cf15f7dfa376730800000000000000
+      internalID: 3992224455124450332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndScreenTextAnimation_1
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 1088
+        width: 244
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25939ea9ac5be9c30800000000000000
+      internalID: 4368128570382956882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndScreenTextAnimation_2
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 1088
+        width: 244
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eef24218dcbb7b10800000000000000
+      internalID: 1980384097364803297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndScreenTextAnimation_3
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 1088
+        width: 244
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba90a9639ef6dc350800000000000000
+      internalID: 6038605722807830955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndScreenTextAnimation_4
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 1088
+        width: 244
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c06b549265d850cb0800000000000000
+      internalID: -4898353618496408052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndScreenTextAnimation_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 952
+        width: 244
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c0a93951932c3560800000000000000
+      internalID: 7294744603607539913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndScreenTextAnimation_6
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 952
+        width: 244
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a483e5b0df68f5e0800000000000000
+      internalID: -1875626302604344153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndScreenTextAnimation_7
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 952
+        width: 244
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e41b8eaeed1ee3010800000000000000
+      internalID: 1170621300703015246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndScreenTextAnimation_8
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 952
+        width: 244
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b911e1da0151ed30800000000000000
+      internalID: 4458934212986214834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndScreenTextAnimation_9
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 952
+        width: 244
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97b9fb5e521e106b0800000000000000
+      internalID: -5331732930945377415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndScreenTextAnimation_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 816
+        width: 244
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f68d31be1e9fc1330800000000000000
+      internalID: 3683093343989127279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndScreenTextAnimation_11
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 816
+        width: 244
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f2069ee8d3947bc0800000000000000
+      internalID: -3786238826786716943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndScreenTextAnimation_12
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 816
+        width: 244
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da96638ca9bca04c0800000000000000
+      internalID: -4320417026864158291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndScreenTextAnimation_13
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 816
+        width: 244
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b41012e604dc03bd0800000000000000
+      internalID: -2652394503911964341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndScreenTextAnimation_14
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 816
+        width: 244
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5c26a304e0747190800000000000000
+      internalID: -7965617716295488422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndScreenTextAnimation_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 680
+        width: 244
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a827f86e089bd2530800000000000000
+      internalID: 3831922821237273226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndScreenTextAnimation_16
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 680
+        width: 244
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6de66598330d63bc0800000000000000
+      internalID: -3803623915501752618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndScreenTextAnimation_17
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 680
+        width: 244
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8b69cd4a163e4ab0800000000000000
+      internalID: -5022017047869428849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndScreenTextAnimation_18
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 680
+        width: 244
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd3d0082f0a6e1480800000000000000
+      internalID: -8926580798073547812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndScreenTextAnimation_19
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 680
+        width: 244
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dd0fd1a1d979b750800000000000000
+      internalID: 6321217493262077398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndScreenTextAnimation_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 544
+        width: 244
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f31e57ac455498b0800000000000000
+      internalID: -5146394686463798279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndScreenTextAnimation_21
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 544
+        width: 244
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bca59d76c2a182e0800000000000000
+      internalID: -2125238575747978061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndScreenTextAnimation_22
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 544
+        width: 244
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1e1a69f0c51b8270800000000000000
+      internalID: 8253714660648951326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndScreenTextAnimation_23
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 544
+        width: 244
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e83c9551fc502eb40800000000000000
+      internalID: 5467939284555776910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndScreenTextAnimation_24
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 544
+        width: 244
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baa6642335f960c00800000000000000
+      internalID: 866555157989976747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndScreenTextAnimation_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 408
+        width: 244
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88fc93064608ad360800000000000000
+      internalID: 7195204523277275016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndScreenTextAnimation_26
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 408
+        width: 244
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d15a7742affa9150800000000000000
+      internalID: 5880293335934587350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndScreenTextAnimation_27
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 408
+        width: 244
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0438886cc77064090800000000000000
+      internalID: -8050739051390008512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndScreenTextAnimation_28
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 408
+        width: 244
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc502145ff3660310800000000000000
+      internalID: 1370893084859172299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndScreenTextAnimation_29
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 408
+        width: 244
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 905921827aac24be0800000000000000
+      internalID: -1494409307052927735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndScreenTextAnimation_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 272
+        width: 244
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d87b2ded91d93050800000000000000
+      internalID: 5780882072925862098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndScreenTextAnimation_31
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 272
+        width: 244
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4838e05aeeb1b620800000000000000
+      internalID: 2788219557908068426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndScreenTextAnimation_32
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 272
+        width: 244
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d536eea92c8e4f30800000000000000
+      internalID: 4561737583228761559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndScreenTextAnimation_33
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 272
+        width: 244
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbfdbff78f2f1df50800000000000000
+      internalID: 6904566852848705468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndScreenTextAnimation_34
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 272
+        width: 244
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3b901027c60bfc10800000000000000
+      internalID: 2088270304522574652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndScreenTextAnimation_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 136
+        width: 244
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aacf198559e62e340800000000000000
+      internalID: 4891593732992924842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndScreenTextAnimation_36
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 136
+        width: 244
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b0eabaefedc46b60800000000000000
+      internalID: 7738536490048348345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndScreenTextAnimation_37
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 136
+        width: 244
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78f4d4bb1b0686150800000000000000
+      internalID: 5866044831117954951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndScreenTextAnimation_38
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 136
+        width: 244
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 685a737127b677ee0800000000000000
+      internalID: -1263423032694168186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndScreenTextAnimation_39
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 136
+        width: 244
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ae0689534f5ae790800000000000000
+      internalID: -7500077486562734432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndScreenTextAnimation_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 244
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2796a673ee3750d0800000000000000
+      internalID: -3434207044177586389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndScreenTextAnimation_41
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 0
+        width: 244
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e15f11ec96de575c0800000000000000
+      internalID: -4218204437277969122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndScreenTextAnimation_42
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 0
+        width: 244
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 060b1c56206684e70800000000000000
+      internalID: 9099635207585247328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndScreenTextAnimation_43
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 0
+        width: 244
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11badb5fba9544f10800000000000000
+      internalID: 2253024308689218321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EndScreenTextAnimation_44
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 0
+        width: 244
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 983cf67cdab0851d0800000000000000
+      internalID: -3361924280828836983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
