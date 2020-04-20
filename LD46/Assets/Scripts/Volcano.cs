@@ -19,6 +19,7 @@ public class Volcano : TimedAbility
     void Start()
     {
         collider = transform.GetComponent<CircleCollider2D>();
+        AudioManager.instance.GetComponent<AudioSource>().PlayOneShot(AudioManager.instance.volcano);
     }
 
     

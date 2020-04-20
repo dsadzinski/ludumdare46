@@ -14,7 +14,7 @@ public class Tornado : MonoBehaviour
 
     void Start()
     {
-        
+        AudioManager.instance.GetComponent<AudioSource>().PlayOneShot(AudioManager.instance.tornado);
     }
 
     

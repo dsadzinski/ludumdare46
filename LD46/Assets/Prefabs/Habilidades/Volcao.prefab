@@ -12,6 +12,7 @@ GameObject:
   - component: {fileID: 2584130904046753789}
   - component: {fileID: 2584130904046753790}
   - component: {fileID: 2584130904046753791}
+  - component: {fileID: 8956964146133713255}
   m_Layer: 0
   m_Name: Volcao
   m_TagString: Untagged
@@ -81,7 +82,7 @@ SpriteRenderer:
   m_Size: {x: 0.58, y: 0.36}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 1
+  m_WasSpriteAssigned: 0
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!58 &2584130904046753790
@@ -114,3 +115,22 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   startedTimer: 0
   collider: {fileID: 2584130904046753790}
+--- !u!95 &8956964146133713255
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2584130904046753784}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: d98b5cf2507d7664d982bee4ace62a20, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0

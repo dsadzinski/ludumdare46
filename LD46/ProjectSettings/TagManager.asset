@@ -20,7 +20,7 @@ TagManager:
   - Jogador
   - PlayerProjectile
   - Enemy
-  - 
+  - CollideToPlayer
   - 
   - 
   - 

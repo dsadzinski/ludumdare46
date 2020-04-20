@@ -7,7 +7,7 @@ public class Earthquake : TimedAbility
 
     void Start()
     {
-        
+        AudioManager.instance.GetComponent<AudioSource>().PlayOneShot(AudioManager.instance.earthquake);
     }
   
     public override void Update()

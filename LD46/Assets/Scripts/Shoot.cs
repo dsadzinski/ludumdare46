@@ -179,6 +179,8 @@ public class Shoot : MonoBehaviour
             {
                 shotVirusOnce = true;
             }
+            //AudioManager.instance.GetComponent<AudioSource>().clip = AudioManager.instance.virus;
+            AudioManager.instance.GetComponent<AudioSource>().PlayOneShot(AudioManager.instance.virus);
 
         }
 
@@ -202,6 +204,8 @@ public class Shoot : MonoBehaviour
             {
                 shotPestOnce = true;
             }
+
+            AudioManager.instance.GetComponent<AudioSource>().PlayOneShot(AudioManager.instance.pest);
 
         }
 
