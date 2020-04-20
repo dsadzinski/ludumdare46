@@ -43,6 +43,7 @@ public class UpgradesManager : MonoBehaviour
 
     int treeAmount;
     int treeCost = 10;
+    float treeHealRate = 0.5f;
     int treeGenerationRate = 3;
     float treeOilGenerationRate = 0.15f;
 
@@ -111,6 +112,7 @@ public class UpgradesManager : MonoBehaviour
             foreach (GameObject t in currentTreesGO)
             {
                 Destroy(t);
+               
             }
         }
     }
@@ -121,6 +123,7 @@ public class UpgradesManager : MonoBehaviour
         {
             pointTickTimer = 0f;
             points += pointGenerationRate;
+            Player.instance.Heal(currentTreesGO.Count * treeHealRate);
         }
     }
 
